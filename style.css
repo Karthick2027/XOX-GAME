@@ -1,0 +1,10 @@
+.game-title {
+  box-shadow: 2px 2px 2px 2px #d86c23;
+  font-family: algerian;
+  color: #ed121d;
+  margin: 10px auto;
+}
+
+h1 {
+  font-size: 60px;
+}
